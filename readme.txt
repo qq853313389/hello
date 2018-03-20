@@ -1,4 +1,4 @@
 hello
 hello2
 
-str
+str + hello
